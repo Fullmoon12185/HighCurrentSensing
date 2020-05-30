@@ -90,23 +90,6 @@ GenerateClassCluster=0
 DocumentUniqueId=IEFNLSBU
 
 [Document4]
-DocumentPath=eBox_Peripherals.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=301
-AnnotationIndexControlEnabled=1
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=3
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=0
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GFAXPIVX
-
-[Document5]
 DocumentPath=eBox_3G.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=401
@@ -123,7 +106,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FVYVAYGF
 
-[Document6]
+[Document5]
 DocumentPath=outputs.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -140,41 +123,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
-DocumentPath=eBox_ACdetect.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=501
-AnnotationIndexControlEnabled=1
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=5
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=0
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QCRMBGUL
-
-[Document8]
-DocumentPath=eBox_ACdetect2.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=601
-AnnotationIndexControlEnabled=1
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=6
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=0
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=AUGLFVVU
-
-[Document9]
+[Document6]
 DocumentPath=eBox.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,7 +140,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EYCXPAUO
 
-[Document10]
+[Document7]
 DocumentPath=eBox_LCD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=702
@@ -208,14 +157,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XSHVGCVG
 
-[Document11]
+[Document8]
 DocumentPath=highcurrentsensing.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=8
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
