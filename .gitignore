@@ -2,3 +2,5 @@
 *.PrjPcbStructure
 /\_\_Previews
 /Logs
+/Outputs
+eBox*
